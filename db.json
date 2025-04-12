@@ -1,0 +1,25 @@
+{
+  "asset": [
+    {
+      "id": "1",
+      "name": "Land",
+      "date": "2023-01-01",
+      "value": 1000000,
+      "location": "Delhi"
+    },
+    {
+      "id": "5112",
+      "name": "Arul Begonia",
+      "date": "2024-02-02",
+      "value": "10000000",
+      "location": "Punjab"
+    },
+    {
+      "id": "49b3",
+      "name": "John Doe",
+      "date": "2024-02-03",
+      "value": "10000000",
+      "location": "Haryana"
+    }
+  ]
+}
