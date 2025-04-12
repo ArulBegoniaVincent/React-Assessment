@@ -103,10 +103,16 @@ body {
   button {
     background-color: #28a745;
   }
+  button:hover {
+    transform: scale(1.05);
+  }
   
   .deletebutton {
     background-color: #dc3545;
   }
   
+  .deletebutton:hover {
+    transform: scale(1.05);
+  }
 
 
